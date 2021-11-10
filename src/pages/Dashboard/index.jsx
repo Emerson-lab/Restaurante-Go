@@ -6,7 +6,7 @@ import Food from '../../components/Food';
 import ModalAddFood from '../../components/ModalAddFood';
 import ModalEditFood from '../../components/ModalEditFood';
 import { FoodsContainer } from './styles';
-//asdads
+
 class Dashboard extends Component {
   constructor(props) {
     super(props);
