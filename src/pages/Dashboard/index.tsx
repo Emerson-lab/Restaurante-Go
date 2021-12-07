@@ -7,14 +7,6 @@ import ModalAddFood from "../../components/ModalAddFood";
 import ModalEditFood from "../../components/ModalEditFood";
 import { FoodsContainer } from "./styles";
 
-interface IFood {
-  id: number;
-  name: string;
-  description: string;
-  price: number;
-  available: boolean;
-  image: string;
-}
 
 interface AddFood {
   image: string;
